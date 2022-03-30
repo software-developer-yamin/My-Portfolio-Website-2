@@ -32,7 +32,7 @@ import spotify from "../assets/spotify.png";
 import typescript from "../assets/typescript.png";
 import vue from "../assets/vue.png";
 
-export default {
+const images = {
   email,
   mobile,
   api,
@@ -67,3 +67,5 @@ export default {
   skype,
   spotify,
 };
+
+export default images;
